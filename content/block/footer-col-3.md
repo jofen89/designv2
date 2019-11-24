@@ -1,3 +1,3 @@
-#### Footer col 3
+#### blackhatworld
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Länk till Black hat SEO forum](https://www.blackhatworld.com/)

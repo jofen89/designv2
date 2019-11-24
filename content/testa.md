@@ -1,5 +1,23 @@
-Testar markdown.
+---
+views:
+    kursrepo:
+        region: sidebar-right
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-kursrepo
 
-<h1> Markdown test </h1>
+    redovisa:
+        region: sidebar-left
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-redovisa
 
-<p> Det här är ett test </p>
+---
+Test
+=========================
+
+Det här är en kurs på BTH.        
